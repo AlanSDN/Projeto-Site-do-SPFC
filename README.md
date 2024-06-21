@@ -5,6 +5,6 @@ Esse projeto eu fiz com o intuito de praticar **HTML**, **CSS** e **JS**, e comp
 # Comparando o site/projeto e seus aprimoramentos:
 
 - Site sem **CSS** e sem **JS** - [Vá para o site](https://alansdn.github.io/Primeiro-Repositorio/)
-- Site com **CSS** e sem **JS** - [Vá para o site]()
+- Site com **CSS** e sem **JS** - [Vá para o site](https://alansdn.github.io/Projeto-Site/)
 - Site com **CSS** e com **JS** - **_Loading..._**
 
